@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[hongfeiliuxing的个人博客]]></title>
-  <link href="http://hongfeiliuxing.github.io/atom.xml" rel="self"/>
+  <title><![CDATA[Category: android | hongfeiliuxing的个人博客]]></title>
+  <link href="http://hongfeiliuxing.github.io/blog/categories/android/atom.xml" rel="self"/>
   <link href="http://hongfeiliuxing.github.io/"/>
   <updated>2015-07-27T02:45:55-07:00</updated>
   <id>http://hongfeiliuxing.github.io/</id>
@@ -77,18 +77,11 @@
 
 <h2>关于作者</h2>
 
-<figure class='code'><figcaption><span></span></figcaption><div class="highlight"><table><tr><td class="gutter"><pre class="line-numbers"><span class='line-number'>1</span>
-<span class='line-number'>2</span>
-<span class='line-number'>3</span>
-<span class='line-number'>4</span>
-</pre></td><td class='code'><pre><code class='javascript'><span class='line'>  <span class="kd">var</span> <span class="nx">ihubo</span> <span class="o">=</span> <span class="p">{</span>
-</span><span class='line'>    <span class="nx">nickName</span>  <span class="o">:</span> <span class="s2">&quot;草依山&quot;</span><span class="p">,</span>
-</span><span class='line'>    <span class="nx">site</span> <span class="o">:</span> <span class="s2">&quot;http://jser.me&quot;</span>
-</span><span class='line'>  <span class="p">}</span>
-</span></code></pre></td></tr></table></div></figure>
-
-
-
+<pre><code class="javascript">  var ihubo = {
+    nickName  : "草依山",
+    site : "http://jser.me"
+  }
+</code></pre>
 ]]></content>
   </entry>
   
