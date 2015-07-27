@@ -1,22 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>http://hongfeiliuxing.github.io/blog/2015/06/24/blog-test/</loc>
-    <lastmod>2015-06-24T22:57:57-07:00</lastmod>
-  </url>
-  <url>
-    <loc>http://hongfeiliuxing.github.io/blog/2015/02/08/inter-app-communication/</loc>
-    <lastmod>2015-02-08T11:39:49-08:00</lastmod>
-  </url>
-  <url>
-    <loc>http://hongfeiliuxing.github.io/blog/2015/01/24/bangdingyuming/</loc>
-    <lastmod>2015-01-24T08:28:46-08:00</lastmod>
-  </url>
-  <url>
-    <loc>http://hongfeiliuxing.github.io/blog/2015/01/07/bulid-blog-by-octopress/</loc>
-    <lastmod>2015-01-07T08:35:45-08:00</lastmod>
-  </url>
-  <url>
     <loc>http://hongfeiliuxing.github.io/404.html</loc>
   </url>
   <url>
@@ -30,11 +14,5 @@
   </url>
   <url>
     <loc>http://hongfeiliuxing.github.io/blog/categories/</loc>
-  </url>
-  <url>
-    <loc>http://hongfeiliuxing.github.io/blog/categories/octopress/</loc>
-  </url>
-  <url>
-    <loc>http://hongfeiliuxing.github.io/blog/categories/ios/</loc>
   </url>
 </urlset>
